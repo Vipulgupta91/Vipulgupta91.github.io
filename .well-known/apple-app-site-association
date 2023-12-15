@@ -2,7 +2,7 @@
 "applinks":{
      "details":[
         {
-           "appIDs": ["E5R2JZ6U5K.com.demo.GUIApp"],
+           "appIDs": ["E5R2JZ6U5K.com.tally.GUIApp"],
            "components":[
                 {
                     "/": "/gui/*"
