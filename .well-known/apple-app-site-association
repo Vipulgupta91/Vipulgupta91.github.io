@@ -10,7 +10,7 @@
             ]
         },
         {
-          "appIDs": ["E5R2JZ6U5K.world.tally.ULink"],
+          "appIDs": ["E5R2JZ6U5K.com.tally.ULink"],
           "components": [
               {
                     "/": "/ulink/*"
